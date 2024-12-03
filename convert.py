@@ -1,5 +1,5 @@
 # Open the .obo file and the output file for writing triples
-input_file = "hp.obo"  # Path to your .obo file
+input_file = "/home/sulimaas/deeppheno/deeppheno/data/hp.obo"  # Path to your .obo file
 output_file = "hp_anyburl_format.txt"  # Output file in triple format
 
 # Initialize variables
